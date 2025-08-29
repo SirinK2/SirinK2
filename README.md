@@ -1,27 +1,41 @@
-## Hi there 👋
-I'm a mobile app developer I specialize in Flutter and Kotlin. 
+## Hi, I’m Sirin! 👋
+**Mobile Developer**
 
 
 ## 📊 My GitHub Contributions
 ![Your contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SirinK2&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/SirinK2/github-readme-stats#gh-dark-mode-only)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SirinK2&theme=dark)
+## 👩‍💻 About Me
+– Skilled in Flutter, GetX, BLoC, Firebase, API integration  
+– Passionate about performance optimization and clean UX
 
-<!--
-**SirinK2/SirinK2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎨 Fun & Experimental Projects 
+###  Bitmap Filter (Flutter)
+A Flutter app that applies bitwise filters on bitmap images (AND, XOR, Red, Blue...etc). 
 
+🔗 [View Project README](https://github.com/SirinK2/image_filter)
 
+###  Color Filter (Flutter)
+A Flutter app that allows you to manipulate colors using RGBA hex codes and bitwise operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [View Project README](https://github.com/SirinK2/color_filter) 
+
+###  Dart PDF Transformer (Client-Server)
+Dart client-server system to transfer, transform, and securely delete PDF files using sockets.
+
+🔗 [View Gist README](https://gist.github.com/SirinK2/ae2c72261b12781cbf06d84cc2521d9f)
+
+---
+
+## 🛠️ Skills & Tools
+ ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📬 Contact Me
+- ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  [LinkedIn](http://linkedin.com/in/sirinalkadi) 
+- ![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [Email](mailto:sirin.a.alkadi@gmail.com)
