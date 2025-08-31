@@ -37,5 +37,5 @@ Dart client-server system to transfer, transform, and securely delete PDF files 
 ---
 
 ## 📬 Contact Me
-- ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  [LinkedIn](http://linkedin.com/in/sirinalkadi) 
-- ![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  [Email](mailto:sirin.a.alkadi@gmail.com)
+- [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/sirinalkadi) 
+- [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirin.a.alkadi@gmail.com)
