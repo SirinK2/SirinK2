@@ -2,11 +2,6 @@
 **Mobile Developer**
 
 
-## 📊 My GitHub Contributions
-![Your contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
 ## 👩‍💻 About Me
 – Skilled in Flutter, GetX, BLoC, Firebase, API integration  
 – Passionate about performance optimization and clean UX
@@ -28,6 +23,11 @@ A Flutter app that allows you to manipulate colors using RGBA hex codes and bitw
 Dart client-server system to transfer, transform, and securely delete PDF files using sockets.
 
 🔗 [View Gist README](https://gist.github.com/SirinK2/ae2c72261b12781cbf06d84cc2521d9f)
+
+---
+
+## 📊 My GitHub Contributions
+![Your contributions](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
