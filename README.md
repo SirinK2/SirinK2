@@ -1,44 +1,41 @@
 ### Sirin Alkadi
 
-**Software Engineer** · .NET backend & Flutter · Riyadh, Saudi Arabia
+**Software Engineer** · Riyadh, Saudi Arabia
 
-Biochemist who went into code. I build the API, and the app that talks to it.
-
----
-
-## 🧬 [GenomeTrack](https://github.com/SirinK2/GenomeTrack)
-
-### Lab sample tracking where the history can't be faked.
-
-Someone edited a record straight in the database. No API call, nothing in the logs.
-
-Here is what the lab sees next:
-
-![Chain of custody verification catching a tampered record](assets/tamper.png)
-
-Every custody event is hash-linked to the one before it — so the system doesn't just suspect
-tampering, it names the row.
-
-`ASP.NET Core 9` `PostgreSQL` `EF Core` `Docker` `Flutter` · Clean Architecture · 28 tests · CI
+Biochemist who went into code.
+I build the API — and the app that talks to it.
 
 ---
 
-## 📱 Mobile
+## ⚡ Now
 
-Three years of production Flutter. Most of it private, so in short:
-
-|  |  |
-| --- | --- |
-| **Multi-app monorepo** | Built the shared core and the auth module every app uses |
-| **Client apps** | Design handoff → store release |
-| **Design system** | Component library the team made its default |
-| **Real-time** | Socket.IO · Firebase · BLE beacons |
-
-Public: [image_filter](https://github.com/SirinK2/image_filter) · [color_filter](https://github.com/SirinK2/color_filter)
+🔨 &nbsp;Backend services in **ASP.NET Core** — identity, authorization, events between services
+📱 &nbsp;Still writing **Flutter**, because I like building the part people actually touch
+🧪 &nbsp;Weekend project: making an audit trail that survives someone with database access
 
 ---
 
-## Stack
+## 🛠 Built
+
+**🧬 [GenomeTrack](https://github.com/SirinK2/GenomeTrack)** — lab custody that can't be faked
+<br>Someone edited a record straight in the database. The system named the row.
+
+![Chain of custody catching a tampered record](assets/tamper.png)
+
+`.NET 9` `PostgreSQL` `EF Core` `Docker` `Flutter`
+
+<br>
+
+**📱 Flutter — three years, mostly private repos**
+<br>The shared core and auth module every app in a monorepo runs on · a component library the
+team adopted as its default · client apps from design handoff to store release · real-time over
+Socket.IO, Firebase, BLE beacons
+
+Public bits: [image_filter](https://github.com/SirinK2/image_filter) · [color_filter](https://github.com/SirinK2/color_filter) — bitwise play with bitmaps and colour channels
+
+---
+
+## 🧰 Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -61,6 +58,8 @@ Public: [image_filter](https://github.com/SirinK2/image_filter) · [color_filter
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SirinK2/SirinK2/output/snake-dark.svg">
   <img alt="Contribution graph" src="https://raw.githubusercontent.com/SirinK2/SirinK2/output/snake.svg">
 </picture>
+
+<sub>🐍 eating a year of commits, regenerated nightly</sub>
 
 ---
 
