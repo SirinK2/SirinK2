@@ -2,8 +2,7 @@
 
 **Software Engineer** · Riyadh, Saudi Arabia
 
-Biochemist who went into code.
-I build the API — and the app that talks to it.
+I build the API, and the app that talks to it.
 
 ---
 
@@ -20,8 +19,6 @@ I build the API — and the app that talks to it.
 **🧬 [GenomeTrack](https://github.com/SirinK2/GenomeTrack)** — lab custody that can't be faked
 <br>Someone edited a record straight in the database. The system named the row.
 
-![Chain of custody catching a tampered record](assets/tamper.png)
-
 `.NET 9` `PostgreSQL` `EF Core` `Docker` `Flutter`
 
 <br>
@@ -29,7 +26,7 @@ I build the API — and the app that talks to it.
 **📱 Flutter — three years, mostly private repos**
 <br>The shared core and auth module every app in a monorepo runs on · a component library the
 team adopted as its default · client apps from design handoff to store release · real-time over
-Socket.IO, Firebase, BLE beacons
+Socket.IO, Firebase.
 
 Public bits: [image_filter](https://github.com/SirinK2/image_filter) · [color_filter](https://github.com/SirinK2/color_filter) — bitwise play with bitmaps and colour channels
 
