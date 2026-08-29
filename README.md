@@ -1,9 +1,6 @@
 ### Sirin Alkadi
 
-**Software Engineer** · Riyadh, Saudi Arabia
-
-I build the API, and the app that talks to it.
-
+**Software Engineer** 
 ---
 
 ## ⚡ Now
