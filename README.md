@@ -2,21 +2,28 @@
 
 **Software Engineer** · .NET backend & Flutter · Riyadh, Saudi Arabia
 
-> I build the API, and the app that talks to it.
+Biochemist who went into code. I build the API, and the app that talks to it.
 
 ---
 
-### 🧬 [GenomeTrack](https://github.com/SirinK2/GenomeTrack)
+## 🧬 [GenomeTrack](https://github.com/SirinK2/GenomeTrack)
 
-**Lab sample tracking where the history can't be faked.**
+### Lab sample tracking where the history can't be faked.
 
-Edit a record straight in the database — the API tells you which one, and when.
+Someone edited a record straight in the database. No API call, nothing in the logs.
+
+Here is what the lab sees next:
+
+![Chain of custody verification catching a tampered record](assets/tamper.png)
+
+Every custody event is hash-linked to the one before it — so the system doesn't just suspect
+tampering, it names the row.
 
 `ASP.NET Core 9` `PostgreSQL` `EF Core` `Docker` `Flutter` · Clean Architecture · 28 tests · CI
 
 ---
 
-### 📱 Mobile
+## 📱 Mobile
 
 Three years of production Flutter. Most of it private, so in short:
 
@@ -31,7 +38,7 @@ Public: [image_filter](https://github.com/SirinK2/image_filter) · [color_filter
 
 ---
 
-### Stack
+## Stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
