@@ -9,9 +9,9 @@ I build the API — and the app that talks to it.
 
 ## ⚡ Now
 
-🔨 &nbsp;Backend services in **ASP.NET Core** — identity, authorization, events between services
-📱 &nbsp;Still writing **Flutter**, because I like building the part people actually touch
-🧪 &nbsp;Weekend project: making an audit trail that survives someone with database access
+🔨 &nbsp;Backend services in **ASP.NET Core** — identity, authorization, events between services<br>
+📱 &nbsp;Still writing **Flutter**, because I like building the part people actually touch<br>
+🧪 &nbsp;Weekend project: an audit trail that survives someone with database access
 
 ---
 
