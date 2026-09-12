@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#11182b"/><stop offset="1" stop-color="#22213e"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#a99bf5" stop-opacity="0.05"/><stop offset="1" stop-color="#c8baff" stop-opacity="0.8"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5">
+    <circle cx="1080" cy="150" r="220"/><circle cx="1080" cy="150" r="175"/><circle cx="1080" cy="150" r="130"/><circle cx="1080" cy="150" r="85"/>
+    <path d="M700 320 1010 0M840 320 1150 0"/>
+  </g>
+  <circle cx="960" cy="99" r="5" fill="#c4b5fd"/>
+  <circle cx="1094" cy="235" r="4" fill="#c4b5fd"/>
+  <rect x="70" y="75" width="42" height="4" rx="2" fill="#bca8f5"/>
+  <text x="70" y="155" fill="#f4f0ff" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="3">SIRIN ALKADI</text>
+  <text x="73" y="201" fill="#c2bbdc" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="1">Software Engineer</text>
+  <text x="73" y="259" fill="#a99cc8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">MOBILE  /  BACKEND</text>
+</svg>
