@@ -23,9 +23,7 @@ I enjoy building apps and the shared components behind them. Most of my work liv
 
 A couple of public repositories to explore.
 
-| &nbsp; | &nbsp; |
-| :--- | :--- |
-| **[image_filter ↗](https://github.com/SirinK2/image_filter)** | **[color_filter ↗](https://github.com/SirinK2/color_filter)** |
+[image_filter ↗](https://github.com/SirinK2/image_filter) · [color_filter ↗](https://github.com/SirinK2/color_filter)
 
 <br>
 
