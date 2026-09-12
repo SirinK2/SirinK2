@@ -4,9 +4,11 @@
 
 ### A little about me
 
-I work with **Flutter** and explore backend development with **ASP.NET Core**.
+I build mobile apps with **Flutter** and work on backend services with **ASP.NET Core**.
 
-I enjoy building apps and the shared components behind them. Most of my work lives in private repositories; here I share smaller projects and things I’m learning.
+My work includes app interfaces and shared components that support multiple apps. I care about how an app feels to use and how its code fits together.
+
+Most of my professional work is in private repositories. The projects here are smaller pieces of my work, experiments, and learning.
 
 <br>
 
